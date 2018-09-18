@@ -55,8 +55,7 @@ Imports:
     png,
     doSNOW,
     reticulate,
-    foreach,
-    hdf5r
+    foreach
 LinkingTo: Rcpp (>= 0.11.0), RcppEigen, RcppProgress
 License: GPL-3 | file LICENSE
 LazyData: true
