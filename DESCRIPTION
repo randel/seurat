@@ -52,7 +52,6 @@ Imports:
     lmtest,
     cluster,
     fitdistrplus,
-    png,
     doSNOW,
     reticulate,
     foreach
